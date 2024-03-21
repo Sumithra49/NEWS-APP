@@ -1,6 +1,7 @@
 # News Mag
 
 This is a simple React application called News Mag that fetches and displays news articles from the News API based on different categories.
+![Uploading image.png…]()
 
 
 
