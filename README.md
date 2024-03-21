@@ -1,7 +1,7 @@
 # News Mag
 
 This is a simple React application called News Mag that fetches and displays news articles from the News API based on different categories.
-![Uploading image.png…]()
+![image](https://github.com/Sumithra49/NEWS-APP/assets/141726527/ed26d8bc-3b58-4833-bc4c-6706ecd8f027)
 
 
 
@@ -33,6 +33,8 @@ This is a simple React application called News Mag that fetches and displays new
 - Clicking on a category in the navbar updates the displayed news articles based on that category.
 
 ### 2. Article Display
+![Uploading image.png…]()
+
 
 - Each news article is displayed as a card containing the article title, description, and an image if available.
 - Users can click on the "Read More" button to view the full article on the news website.
