@@ -2,6 +2,7 @@
 
 This is a simple React application called News Mag that fetches and displays news articles from the News API based on different categories.
 
+![image](https://github.com/Sumithra49/NEWS-APP/assets/141726527/4aa4d13d-5c38-4846-be4f-5bbc235bb31b)
 
 
 
