@@ -1,7 +1,7 @@
 # News Mag
 
 This is a simple React application called News Mag that fetches and displays news articles from the News API based on different categories.
-![image](https://github.com/Sumithra49/NEWS-APP/assets/141726527/d89b7c50-e9c6-4ed0-bfd6-2657130717f9)
+
 
 
 ## Setup
@@ -25,7 +25,7 @@ This is a simple React application called News Mag that fetches and displays new
 ## Features
 
 ### 1. Category Selection:
-![Uploading image.png…]()
+![image](https://github.com/Sumithra49/NEWS-APP/assets/141726527/d89b7c50-e9c6-4ed0-bfd6-2657130717f9)
 
 
 - Users can select from different categories such as Technology, Business, Health, Science, Sports, and Entertainment.
